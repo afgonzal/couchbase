@@ -1,0 +1,9 @@
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\bin\Debug\netcoreapp3.1\CouchPOC.Data.deps.json
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\bin\Debug\netcoreapp3.1\CouchPOC.Data.dll
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.csprojAssemblyReference.cache
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.AssemblyInfoInputs.cache
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.AssemblyInfo.cs
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\bin\Debug\netcoreapp3.1\CouchPOC.Data.pdb
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.dll
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.pdb
+C:\OA\cursos\Couchbase\CB130cs-Lab-Projects\CouchPOC.Data\obj\Debug\netcoreapp3.1\CouchPOC.Data.csproj.CoreCompileInputs.cache

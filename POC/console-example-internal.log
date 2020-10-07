@@ -1,0 +1,208 @@
+2020-09-30 13:52:32.2901 Info Message Template Auto Format enabled
+2020-09-30 13:52:32.4461 Info Adding target FileTarget(Name=target1)
+2020-09-30 13:52:32.4703 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 13:52:32.5765 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 13:52:32.6527 Info Configuration initialized.
+2020-09-30 13:52:32.6620 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 13:53:50.6370 Info Message Template Auto Format enabled
+2020-09-30 13:53:50.7902 Info Adding target FileTarget(Name=target1)
+2020-09-30 13:53:50.8062 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 13:53:50.8997 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 13:53:50.9598 Info Configuration initialized.
+2020-09-30 13:53:50.9757 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 13:54:13.2856 Info AppDomain Shutting down. Logger closing...
+2020-09-30 13:54:13.3300 Info Logger has been shut down.
+2020-09-30 13:59:18.4448 Info Message Template Auto Format enabled
+2020-09-30 13:59:18.6304 Info Adding target FileTarget(Name=target1)
+2020-09-30 13:59:18.6575 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 13:59:18.8772 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 13:59:18.9479 Info Configuration initialized.
+2020-09-30 13:59:18.9982 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:02:15.0355 Info Message Template Auto Format enabled
+2020-09-30 14:02:15.3004 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:02:15.3209 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:02:15.4577 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:02:15.5350 Info Configuration initialized.
+2020-09-30 14:02:15.5559 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:02:22.4600 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:02:22.5002 Info Logger has been shut down.
+2020-09-30 14:05:07.0256 Info Message Template Auto Format enabled
+2020-09-30 14:05:07.2137 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:05:07.2287 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:05:07.3316 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:05:07.3822 Info Configuration initialized.
+2020-09-30 14:05:07.3822 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:05:12.8800 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:05:12.9100 Info Logger has been shut down.
+2020-09-30 14:15:02.8890 Info Message Template Auto Format enabled
+2020-09-30 14:15:03.0807 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:15:03.1034 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:15:03.1964 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:15:03.2864 Info Configuration initialized.
+2020-09-30 14:15:03.3043 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:15:11.4938 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:15:12.0451 Info Logger has been shut down.
+2020-09-30 14:15:45.9987 Info Message Template Auto Format enabled
+2020-09-30 14:15:46.1408 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:15:46.1705 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:15:46.3051 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:15:46.3676 Info Configuration initialized.
+2020-09-30 14:15:46.3676 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:15:51.9140 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:15:51.9557 Info Logger has been shut down.
+2020-09-30 14:19:15.4202 Info Message Template Auto Format enabled
+2020-09-30 14:19:15.6185 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:19:15.6374 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:19:15.7815 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:19:15.8372 Info Configuration initialized.
+2020-09-30 14:19:15.8372 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:20:15.6001 Info Message Template Auto Format enabled
+2020-09-30 14:20:15.8638 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:20:15.9133 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:20:16.0772 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:20:16.1481 Info Configuration initialized.
+2020-09-30 14:20:16.1829 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:22:25.5971 Info Message Template Auto Format enabled
+2020-09-30 14:22:25.8136 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:22:25.8367 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:22:26.0088 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:22:26.2490 Info Configuration initialized.
+2020-09-30 14:22:26.2638 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:24:13.2328 Info Message Template Auto Format enabled
+2020-09-30 14:24:13.3863 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:24:13.4053 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:24:13.4884 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:24:13.5391 Info Configuration initialized.
+2020-09-30 14:24:13.5555 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:25:42.8642 Info Message Template Auto Format enabled
+2020-09-30 14:25:42.9599 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:25:42.9696 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:25:43.0517 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:25:43.1109 Info Configuration initialized.
+2020-09-30 14:25:43.1267 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:28:00.7948 Info Message Template Auto Format enabled
+2020-09-30 14:28:00.9392 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:28:00.9602 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:28:01.0781 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:28:01.1341 Info Configuration initialized.
+2020-09-30 14:28:01.1488 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:29:02.2661 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:29:02.3015 Info Logger has been shut down.
+2020-09-30 14:30:01.6707 Info Message Template Auto Format enabled
+2020-09-30 14:30:01.8027 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:30:01.8290 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:30:01.9278 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:30:01.9819 Info Configuration initialized.
+2020-09-30 14:30:02.0053 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:31:38.8547 Info Message Template Auto Format enabled
+2020-09-30 14:31:39.0830 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:31:39.1045 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:31:39.1912 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:31:39.2479 Info Configuration initialized.
+2020-09-30 14:31:39.2479 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:33:18.9369 Info Message Template Auto Format enabled
+2020-09-30 14:33:19.1176 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:33:19.1503 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:33:19.4008 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:33:19.4550 Info Configuration initialized.
+2020-09-30 14:33:19.4725 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:34:53.1794 Info Message Template Auto Format enabled
+2020-09-30 14:34:53.3511 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:34:53.3688 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:34:53.6240 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:34:53.7226 Info Configuration initialized.
+2020-09-30 14:34:53.7416 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:36:09.8978 Info Message Template Auto Format enabled
+2020-09-30 14:36:10.0457 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:36:10.0457 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:36:10.1473 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:36:10.2556 Info Configuration initialized.
+2020-09-30 14:36:10.2699 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:36:20.7436 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:36:20.8772 Info Logger has been shut down.
+2020-09-30 14:37:01.8325 Info Message Template Auto Format enabled
+2020-09-30 14:37:01.9927 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:37:02.0107 Info Adding target ConsoleTarget(Name=target2)
+2020-09-30 14:37:02.0944 Info Validating config: TargetNames=target1, target2, ConfigItems=33, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:37:02.1865 Info Configuration initialized.
+2020-09-30 14:37:02.2088 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:38:21.4010 Info Message Template Auto Format enabled
+2020-09-30 14:38:21.5934 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:38:21.7674 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-09-30 14:38:21.8621 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:38:21.9480 Info Configuration initialized.
+2020-09-30 14:38:22.1901 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:44:49.0296 Info Message Template Auto Format enabled
+2020-09-30 14:44:49.2497 Info Adding target FileTarget(Name=target1)
+2020-09-30 14:44:49.3273 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-09-30 14:44:49.4357 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-09-30 14:44:49.5045 Info Configuration initialized.
+2020-09-30 14:44:49.5290 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-09-30 14:44:56.0929 Info AppDomain Shutting down. Logger closing...
+2020-09-30 14:44:56.1336 Info Logger has been shut down.
+2020-10-05 16:48:49.2441 Info Message Template Auto Format enabled
+2020-10-05 16:48:49.3575 Info Adding target FileTarget(Name=target1)
+2020-10-05 16:48:49.4170 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 16:48:49.4514 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 16:48:49.4910 Info Configuration initialized.
+2020-10-05 16:48:49.5053 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 16:53:36.7796 Info Message Template Auto Format enabled
+2020-10-05 16:53:36.9799 Info Adding target FileTarget(Name=target1)
+2020-10-05 16:53:37.0583 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 16:53:37.1011 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 16:53:37.1671 Info Configuration initialized.
+2020-10-05 16:53:37.2053 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 16:54:56.2253 Info Message Template Auto Format enabled
+2020-10-05 16:54:56.3208 Info Adding target FileTarget(Name=target1)
+2020-10-05 16:54:56.3410 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 16:54:56.3763 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 16:54:56.4103 Info Configuration initialized.
+2020-10-05 16:54:56.4233 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 16:59:09.1554 Info Message Template Auto Format enabled
+2020-10-05 16:59:09.2749 Info Adding target FileTarget(Name=target1)
+2020-10-05 16:59:09.2965 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 16:59:09.3318 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 16:59:09.3662 Info Configuration initialized.
+2020-10-05 16:59:09.3793 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:00:24.3571 Info Message Template Auto Format enabled
+2020-10-05 17:00:24.4918 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:00:24.5357 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:00:24.5924 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:00:24.6394 Info Configuration initialized.
+2020-10-05 17:00:24.6599 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:01:43.6361 Info Message Template Auto Format enabled
+2020-10-05 17:01:43.7516 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:01:43.7776 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:01:43.8187 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:01:43.8669 Info Configuration initialized.
+2020-10-05 17:01:43.8862 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:02:20.3360 Info Message Template Auto Format enabled
+2020-10-05 17:02:20.5175 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:02:20.5552 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:02:20.6253 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:02:20.6884 Info Configuration initialized.
+2020-10-05 17:02:20.7153 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:02:42.2459 Info Message Template Auto Format enabled
+2020-10-05 17:02:42.3248 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:02:42.3399 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:02:42.3704 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:02:42.4009 Info Configuration initialized.
+2020-10-05 17:02:42.4119 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:03:04.4558 Info Message Template Auto Format enabled
+2020-10-05 17:03:04.5590 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:03:04.5806 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:03:04.6304 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:03:04.6700 Info Configuration initialized.
+2020-10-05 17:03:04.6700 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:03:46.6678 Info Message Template Auto Format enabled
+2020-10-05 17:03:46.7625 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:03:46.7842 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:03:46.8185 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:03:46.8441 Info Configuration initialized.
+2020-10-05 17:03:46.8441 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
+2020-10-05 17:05:28.2678 Info Message Template Auto Format enabled
+2020-10-05 17:05:28.3811 Info Adding target FileTarget(Name=target1)
+2020-10-05 17:05:28.3998 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'target2' not found for logging rule: *.
+2020-10-05 17:05:28.4315 Info Validating config: TargetNames=target1, ConfigItems=18, FilePath=C:\OA\cursos\Couchbase\POC\CouchPOC\bin\Debug\netcoreapp3.1\NLog.config
+2020-10-05 17:05:28.4843 Info Configuration initialized.
+2020-10-05 17:05:28.5015 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.4.12037. Product version: 4.7.4+454058bafb2ed9f9432163ab9436e1afac0b231f. GlobalAssemblyCache: False
